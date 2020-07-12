@@ -17,4 +17,5 @@ Please modify script to explore xlrd module options to further enhance functiona
 ### References
 
 [msoffcrypto-tool](https://pypi.org/project/msoffcrypto-tool/#examples)
+
 [xlrd Docs](https://xlrd.readthedocs.io/en/latest/index.html)
